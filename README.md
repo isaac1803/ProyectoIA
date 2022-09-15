@@ -11,3 +11,4 @@ rnn(gru)
 ## link del data frame
 https://www.kaggle.com/datasets/himanshunakrani/cryptocurrencies-dataset
 ### Video
+https://youtu.be/ZxiirGEwqkk
